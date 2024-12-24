@@ -1,8 +1,8 @@
-## Maid Hiring Website :
-# Project Overview - 
+# Maid Hiring Website :
+## Project Overview - 
 This project is a web application designed to help users find and hire maids for household work. The platform allows maids to register by filling out a detailed form, and users can browse profiles of maids to find the right fit for their needs.
 
-# Key Features -
+## Key Features -
 *Maid Registration:
 Maids can sign up by providing personal details, work experience, services offered, location, and contact information.
 *User-friendly UI:
@@ -14,7 +14,7 @@ The backend fetches and displays maid profiles dynamically.
 *Location-based Search (Future Enhancement):
 Users can filter maids based on their location for better accessibility.
 
-# Technologies Used
+## Technologies Used
 *Frontend-
 HTML: For structuring the web pages.
 CSS: For styling and creating a visually appealing UI.
@@ -28,7 +28,7 @@ MongoDB: For storing maid and user details.
 Body-parser: For parsing form data.
 CORS: To enable cross-origin requests.
 
-#Setup Instructions
+## Setup Instructions
 1. Clone the Repository
 
 **bash**
@@ -62,21 +62,21 @@ Open your browser and go to:
 **arduino**
 http://localhost:3000  
 
-# API ENDPOINTS
+## API ENDPOINTS
 (Endpoint - /submit-form), (Method - POST),(Description- Saves maid registration data to the database.)
 (Endpoint- /get-maids), (Method- GET), (Description- Fetches all maid profiles from the databse.)
 
-# Future Enhancements
+## Future Enhancements
 1. Add a user login and registration system.
 2. Enable location-based filtering for maid profiles.
 3. Include ratings and reviews for maids.
 4. Implement a booking system.
 
-# Contributors
+## Contributors
 Sai Upadhyay
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Acknowledgments
+## Acknowledgments
 Special thanks to all resources and tutorials that guided the development of this project.
